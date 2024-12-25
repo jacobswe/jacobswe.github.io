@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 title: Jacob Swe's Homepage
 description: Coming Soon!
+plugins: [jekyll-include-cache]
