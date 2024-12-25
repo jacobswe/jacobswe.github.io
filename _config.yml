@@ -7,8 +7,8 @@ locale                   : "en-US"
 rtl                      : false
 title                    : "Jacob Swe"
 title_separator          : "-"
-subtitle                 : "AI Architect, Data Scientist, and Software Engineer"
-name                     : "Jacob Swe"
+subtitle                 : # "AI Architect, Data Scientist, and Software Engineer"
+name                     : # "Jacob Swe"
 description              : "AI Architect, Data Scientist, and Software Engineer"
 url                      : "https://www.jacobswe.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Jacob Swe"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/profile-circle.png"
   bio              : "AI Architect, Data Scientist, and Software Engineer"
   location         : "New York City, NY"
   email            : "jacobwswe@gmail.com"
