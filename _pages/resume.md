@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/jacobwswe/), and soon I'll add a downloadable copy of my resume [here]().
+You can also find me on [LinkedIn](https://www.linkedin.com/in/jacobwswe/) or download a copy of my resume [here](/assets/JacobSweResume.pdf){:target="_blank"}.
 
 ## Motivation
 
