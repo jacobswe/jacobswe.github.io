@@ -110,6 +110,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jacobswe"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file"
+      url: "/assets/JacobSweResume.pdf"
 
 # Site Footer
 footer:
@@ -120,6 +123,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jacobswe"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file"
+      url: "/assets/JacobSweResume.pdf"
 
 
 # Reading Files

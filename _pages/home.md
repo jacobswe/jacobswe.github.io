@@ -1,12 +1,12 @@
 ---
-title: ""
+title: " "
 layout: single
 permalink: /
 author_profile: true
 classes: wide
 ---
 
-### **Hi, I'm Jacob.**
+<h3 id="hi-im-jacob" style="margin-top: 0;"><strong>Hi, I’m Jacob.</strong><a class="header-link" href="#hi-im-jacob" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
 
 I'm an AI Architect, Data Scientist, and Software Engineer with a longstanding fascination for how things work. As a kid, this meant taking apart electronics and building DIY projects (like a custom navigation system for a sailboat!). Today, it translates into a passion for building intelligent systems, especially in the areas of language modeling, autonomous agents, and machine learning.
 

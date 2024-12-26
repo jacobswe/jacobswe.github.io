@@ -1,10 +1,12 @@
 ---
-title: "About Me"
+title: ""
 layout: single
 permalink: /about
 author_profile: true
 classes: wide
 ---
+
+<h2 id="a-little-about-me" style="margin-top: 0;"><strong>A Little About Me</strong><a class="header-link" href="#a-little-about-me" title="Permalink"><span class="sr-only">Permalink</span></a></h2>
 
 My journey into the world of AI began with a childhood curiosity for understanding how things work. I was always taking things apart, driven by a desire to understand how they operated inside and, hopefully, put them back together. This hands-on exploration often extended beyond electronics and computers; I spent nearly a decade as a flying trapeze artist, even traveling and training with different circus troupes and spending a few nights sleeping out under the stars. While seemingly unrelated, these experiences instilled in me a love for pushing boundaries, embracing challenges, as well as a strong comfort for failure as a mandatory step to success.
 
