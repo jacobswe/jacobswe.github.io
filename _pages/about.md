@@ -33,11 +33,11 @@ Over the next few years, I benefited immensely from the mentorship and support o
 * **Conduct Investment Research:** I performed statistical analysis and tested investment theories proposed by portfolio managers, drawing from academic literature and conducting novel research.
 * **Optimize Idea Generation:** I developed sophisticated optimization techniques, including differential evolution and custom genetic algorithms, to enhance investment idea generation.
 * **Develop Risk Indexing Tools:** I created a risk indexing engine using [BERTopic](https://maartengr.github.io/BERTopic/index.html) and a custom [Dash](https://dash.plotly.com/)-based frontend for visualization and analysis.
-* **Build Data Access APIs:** I developed a suite of APIs to facilitate complex data extraction from our databases model after Bloomberg BQNT libraries.
+* **Build Data Access APIs:** I developed a suite of APIs to facilitate complex data extraction from our databases modelled after Bloomberg BQNT libraries.
 * **Create a Python Querying Package:** I designed and released a Python package with a custom [Lark](https://lark-parser.readthedocs.io/en/latest/index.html)-based query language for streamlined data access.
 * **Oversee Machine Learning Practices:** I managed and reviewed all machine learning activities within the firm, including deployments to training and inference clusters.
 
-With the rise of generative AI and large language models (LLMs), I was called upon to leverage my prior experience with LLMs (like RoBERTa, which we had deployed internally) to spearhead Polen Capital's AI strategy. This has led to my current focus on:
+With the rise of generative AI and large language models (LLMs), I was called upon to leverage my prior experience with these technologies (like RoBERTa, which we had deployed internally) to spearhead Polen Capital's AI strategy. This has led to my current focus on:
 
 * **LLM-Powered Applications:** Developing a custom Dash frontend for LLM interaction and chat, currently serving ~170 monthly active users.
 * **Agentic Workflows:** Implementing AI agents for complex data retrieval and question answering, integrating both text and API-based queries.
