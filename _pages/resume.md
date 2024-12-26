@@ -48,7 +48,7 @@ My passions lie in developing and implementing advanced solutions in Language AI
     * Generated and automated pitch deck creation for 90+ companies before each conference.
 
 
-**NYU Stern - Management & Organizations** - _City, State_ 
+**NYU Stern - Management & Organizations** - _New York, NY_ 
 
 * **Research Assistant** _(Feb 2016 - Apr 2017)_
     * Systemically reviewed academic literature of similar studies of insider trading on FDA drug decisions.
@@ -57,17 +57,15 @@ My passions lie in developing and implementing advanced solutions in Language AI
 
 ## Education
 
-**NYU Stern School of Business** - _New York City_  _(2015 - 2019)_
-* Bachelor of Science (BS), Major: Business
-* Concentrations: Computing & Data Science, Statistics
+**NYU Stern School of Business** - _New York, NY_  _(2015 - 2019)_
+* Bachelor of Science (BS), Computing & Data Science, Statistics (3.8/4.0)
 * Minor: Mathematics
-* Grade: 3.8/4.0
-* Graduated Cum Laude, Dean's List, named University Honors Scholar
+* Graduated Cum Laude, Dean's List, named University Honors Scholar, D3 Diving Team Member
 
 
 ## Volunteering
 
-**NYU Business Analytics Club** - _City, State_
+**NYU Business Analytics Club** - _New York, NY_
 
 * **Mentor and Advisor** _(Aug 2019 - Present)_
     * Offer professional mentorship to a class of freshman students each semester on career and academic direction.
