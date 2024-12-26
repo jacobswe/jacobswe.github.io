@@ -3,12 +3,30 @@ title: ""
 layout: single
 permalink: /
 author_profile: true
+classes: wide
 ---
 
-# Hello! I'm Jacob
+### **Hi, I'm Jacob.**
 
-I am an AI Architect and Data Scientist with years of experience in financial services, language modeling, and data science infrastructure management. In my free time, I like to experiment with voice-controlled smart home automation, tinker with hardware (especially ESP32s), and spend way too much time rock climbing.
+I'm an AI Architect, Data Scientist, and Software Engineer with a longstanding fascination for how things work. As a kid, this meant taking apart electronics and building DIY projects (like a custom navigation system for a sailboat!). Today, it translates into a passion for building intelligent systems, especially in the areas of language modeling, autonomous agents, and machine learning.
 
-If you are interested in working with me, please send me an email. To see a more formal description of my experience and background, check out my resume. To hear more about what motivates me and what I'm currently interested in, checkout my About Me. Hopefully I'll start writing up some of my experiences both at work and in hobby on my Blog Posts, but there won't be much there for now.
+Currently, I lead AI projects focused on:
 
-Thanks for stopping by!
+* **Agent Design:** Creating intelligent agents that can interact with their environment and dynamically perform complex [system-2](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) tasks.
+* **AI Strategy:** Developing long-term AI roadmaps and implementation plans, setting architectural standards and fostering contribution ecosystems.
+* **AI Education:**  Leading initiatives to demonstrate the value of AI across diverse areas within financial services.
+
+Beyond the professional realm, I enjoy exploring the world of AI through personal projects, including:
+
+* **Smart Home Automation:**  Building an LLM-focused voice-controlled smart home ecosystem with HomeAssistant.
+* **Local AI:** Experimenting with on-device compute using ESP32 microcontrollers, local network inference, and private AI
+
+When I'm not immersed in the world of technology, you can usually find me rock climbing, judging rock climbing competitions, or curled up with a good sci-fi novel.
+
+**Want to learn more?**
+
+* For a formal overview of my qualifications, check out my [resume](/resume).
+* For a deeper dive into my motivations and interests, head over to my [about](/about) page.
+* I'm also hoping to share more of my professional and personal projects on my [blog](/posts) soon.
+
+Thanks for visiting! Feel free to reach out – I'd love to connect.
