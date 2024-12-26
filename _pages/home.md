@@ -19,7 +19,7 @@ Currently, I lead AI projects focused on:
 Beyond the professional realm, I enjoy exploring the world of AI through personal projects, including:
 
 * **Smart Home Automation:**  Building an LLM-focused voice-controlled smart home ecosystem with HomeAssistant.
-* **Local AI:** Experimenting with on-device compute using ESP32 microcontrollers, local network inference, and private AI
+* **Local AI:** Experimenting with on-device compute using ESP32 microcontrollers, local network inference, and private AI.
 
 When I'm not immersed in the world of technology, you can usually find me rock climbing, judging rock climbing competitions, or curled up with a good sci-fi novel.
 

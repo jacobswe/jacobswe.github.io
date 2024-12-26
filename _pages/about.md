@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-My journey into the world of AI began with a childhood curiosity for understanding how things work. I was always taking things apart, driven by a desire to understand they operated inside and, hopefully, put them back together. This hands-on exploration often extended beyond electronics and computers; I spent nearly a decade as a flying trapeze artist, even traveling and training with different circus troupes and spending a few nights sleeping out under the stars. While seemingly unrelated, this experience instilled in me a love for pushing boundaries, embracing challenges, as well as a strong comfort for failure as a mandatory step to success.
+My journey into the world of AI began with a childhood curiosity for understanding how things work. I was always taking things apart, driven by a desire to understand how they operated inside and, hopefully, put them back together. This hands-on exploration often extended beyond electronics and computers; I spent nearly a decade as a flying trapeze artist, even traveling and training with different circus troupes and spending a few nights sleeping out under the stars. While seemingly unrelated, these experiences instilled in me a love for pushing boundaries, embracing challenges, as well as a strong comfort for failure as a mandatory step to success.
 
 As I grew older, my fascination with technology deepened. I worked on various DIY projects, usually driven by my desire to learn through experimentation:
 
@@ -31,11 +31,11 @@ Over the next few years, I benefited immensely from the mentorship and support o
 * **Conduct Investment Research:** I performed statistical analysis and tested investment theories proposed by portfolio managers, drawing from academic literature and conducting novel research.
 * **Optimize Idea Generation:** I developed sophisticated optimization techniques, including differential evolution and custom genetic algorithms, to enhance investment idea generation.
 * **Develop Risk Indexing Tools:** I created a risk indexing engine using [BERTopic](https://maartengr.github.io/BERTopic/index.html) and a custom [Dash](https://dash.plotly.com/)-based frontend for visualization and analysis.
-* **Build Data Access APIs:** I developed a suite of APIs to facilitate complex data extraction from our databases using Bloomberg BQNT libraries.
+* **Build Data Access APIs:** I developed a suite of APIs to facilitate complex data extraction from our databases model after Bloomberg BQNT libraries.
 * **Create a Python Querying Package:** I designed and released a Python package with a custom [Lark](https://lark-parser.readthedocs.io/en/latest/index.html)-based query language for streamlined data access.
 * **Oversee Machine Learning Practices:** I managed and reviewed all machine learning activities within the firm, including deployments to training and inference clusters.
 
-With the rise of generative AI and large language models (LLMs), I was called upon to leverage my prior experience with LLMs (like RoBERTa) to spearhead Polen Capital's AI strategy. This has led to my current focus on:
+With the rise of generative AI and large language models (LLMs), I was called upon to leverage my prior experience with LLMs (like RoBERTa, which we had deployed internally) to spearhead Polen Capital's AI strategy. This has led to my current focus on:
 
 * **LLM-Powered Applications:** Developing a custom Dash frontend for LLM interaction and chat, currently serving ~170 monthly active users.
 * **Agentic Workflows:** Implementing AI agents for complex data retrieval and question answering, integrating both text and API-based queries.
